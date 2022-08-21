@@ -1,0 +1,23 @@
+- title: Hjem
+  url: /
+- title: Vielse og Reception
+  url: /vielse-og-reception
+- title: Brud og Gom
+  url: /brud-og-gom
+- title: Middag og Fest
+  url: /middag-og-fest
+- title: Photobooth
+  url: /photobooth
+- title: Vi Skal Giftes
+  url: /vi-skal-giftes/
+  subfolderitems:
+    - page: Vielse og Reception
+      url: /vi-skal-giftes/vielse-og-reception
+    - page: Middag og Fest
+      url: /vi-skal-giftes/middag-og-fest
+    - page: Toastmaster
+      url: /vi-skal-giftes/toastmaster
+    - page: Gaver
+      url: /vi-skal-giftes/gaver
+    - page: Stedet
+      url: /vi-skal-giftes/stedet
